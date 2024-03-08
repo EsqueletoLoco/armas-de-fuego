@@ -1,0 +1,4 @@
+0 Revolver
+1 Pistola
+2 Escopeta
+3 Rifle
